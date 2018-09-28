@@ -14,6 +14,20 @@ body {
   text-align: center;
 }
 
+@keyframes rotationPic {
+  0%{
+  }
+
+  100%{
+    transform: rotate(360deg);
+  }
+
+}
+
+#picture {
+  animation: rotationPic 20s ease infinite;
+}
+
 .box {
   width: 25%;
   display: inline-block;
