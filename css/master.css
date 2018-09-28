@@ -1,9 +1,18 @@
-body {
-  font-family: system-ui;
+html {
+  height: 100%;
 }
 
-.profile {
+body {
+  height: inherit;
+  font-family: system-ui;
+  display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
 
+.box {
+  width: 30%;
+  display: inline-block;
 }
