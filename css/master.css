@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  height: inherit;
+  height: 100%;
   font-family: system-ui;
   display: flex;
   justify-content: center;
