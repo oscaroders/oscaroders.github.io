@@ -25,7 +25,7 @@ body {
 }
 
 #picture {
-  animation: rotationPic 20s ease infinite;
+  animation: rotationPic 20s ease 1;
 }
 
 .box {
