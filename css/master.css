@@ -12,7 +12,6 @@ body {
   align-items: center;
   flex-direction: column;
   text-align: justify;
-  vertical-align: top;
 }
 
 .box {
