@@ -14,11 +14,6 @@ body {
   text-align: center;
 }
 
-
-#picture {
-  animation: rotationPic 20s ease 1;
-}
-
 .box {
   width: 25%;
   display: inline-block;
