@@ -18,8 +18,9 @@
 
 ![its+a+bug](https://media.giphy.com/media/UAUtB4Oi9U4EM/giphy.gif)
 
-## First [ ]✔
+## First 
 > **[Report bug according to this](https://confluence.ndcsolutions.com/display/TC/Report+bugs)**
+- [ ] ✔
 
 ## Overview
 <!-- This is a summery to get a quick understandingof the issue. !-->
