@@ -1,7 +1,24 @@
 # oscaroders.github.io
+# Bug report
+
+<!-- Report index !-->
+
+[First](#first) <!-- Must do  !-->\
+[Overview](#overview) <!-- Must do  !-->\
+[What Happened?](#what-happened) <!-- Must do  !-->\
+[Expected result](#expected-result) <!-- Must do  !-->\
+[Steps to reproduce](#steps-to-reproduce) <!-- Delete if not used  !-->\
+[Screenshots](#screenshots) <!-- Delete if not used  !-->\
+[Links](#links) <!-- Delete if not used  !-->\
+[Priority/Severity](#priorityseverity) <!-- Delete if not used  !-->\
+[Code](#code) <!-- Delete if not used  !-->\
+[Other information](#other-information) <!-- Delete if not used  !-->
+
+<!-- End of index !-->
+
 ![its+a+bug](https://media.giphy.com/media/UAUtB4Oi9U4EM/giphy.gif)
 
-## First
+## First [ ]✔
 > **[Report bug according to this](https://confluence.ndcsolutions.com/display/TC/Report+bugs)**
 
 ## Overview
@@ -24,7 +41,7 @@
 
 
 ## Screenshots
-<!-- Any relevant screenshots which show the issue !-->
+<!-- Any relevant screenshots which show the issue. Delete as appropriate. !-->
 
 ![description](image.jpg)
 
