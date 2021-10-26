@@ -13,8 +13,15 @@
 ## Expected result
 <!-- What should have happened when you performed the actions !-->
 
-## Steps to reproduce[^1]
+## Steps to reproduce
 <!-- List the steps required to produce the error. !-->
+
+1. step one[^1]
+---
+2. step two
+---
+3. step three
+---
 
 ## Screenshots
 <!-- Any relevant screenshots which show the issue !-->
@@ -51,9 +58,10 @@
 - Detected by:
 - Detected at: 
 - Possible solution:
+- Related issues: #BudID
 - Other: 
 
 
 
-
-[^1]: kolla detta
+---
+[^1]: [See this](https://gurkstad.blogg.se/)
