@@ -1,9 +1,8 @@
 # oscaroders.github.io
-
 ![its+a+bug](https://media.giphy.com/media/UAUtB4Oi9U4EM/giphy.gif)
 
 ## First
-> **[Report bug according to this]** (https://confluence.ndcsolutions.com/display/TC/Report+bugs)
+> **[Report bug according to this](https://confluence.ndcsolutions.com/display/TC/Report+bugs)**
 
 ## Overview
 <!-- This is a summery to get a quick understandingof the issue. !-->
@@ -14,7 +13,7 @@
 ## Expected result
 <!-- What should have happened when you performed the actions !-->
 
-## Steps to reproduce
+## Steps to reproduce[^1]
 <!-- List the steps required to produce the error. !-->
 
 ## Screenshots
@@ -25,10 +24,10 @@
 ## Links
 <!-- Any relevant links for the issue. Delete as appropriate!-->
 
-- **[dbfeedback]** (https://www.whatawonderfullink.sometopdomain)
-- **[Jira]** (https://www.whatawonderfullink.sometopdomain)
-- **[Zendesk]** (https://www.whatawonderfullink.sometopdomain)
-- **[Trac]** (https://www.whatawonderfullink.sometopdomain)
+- **[dbfeedback](https://www.whatawonderfullink.sometopdomain)**
+- **[Jira](https://www.whatawonderfullink.sometopdomain)** 
+- **[Zendesk](https://www.whatawonderfullink.sometopdomain)** 
+- **[Trac](https://www.whatawonderfullink.sometopdomain)**
 
 ## Priority/Severity
 <!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
@@ -46,9 +45,15 @@
     }
 ```
 
-## Detailed information
+## Other information
 <!-- Delete as appropriate. Other/Miscellaneous!-->
 
 - Detected by:
 - Detected at: 
+- Possible solution:
 - Other: 
+
+
+
+
+[^1]: kolla detta
