@@ -17,11 +17,11 @@
 <!-- List the steps required to produce the error. !-->
 
 1. step one[^1]
----
+
 2. step two
----
+
 3. step three
----
+
 
 ## Screenshots
 <!-- Any relevant screenshots which show the issue !-->
@@ -63,5 +63,4 @@
 
 
 
----
 [^1]: [See this](https://gurkstad.blogg.se/)
