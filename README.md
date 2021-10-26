@@ -20,7 +20,7 @@
 
 ## First 
 > **[Report bug according to this](https://confluence.ndcsolutions.com/display/TC/Report+bugs)**
-- [ ] ✔
+- [ ] ✔ for done
 
 ## Overview
 <!-- This is a summery to get a quick understandingof the issue. !-->
