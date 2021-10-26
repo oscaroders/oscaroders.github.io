@@ -1,5 +1,5 @@
 # oscaroders.github.io
-# Bug report
+# Bug report 🐱‍💻
 
 <!-- Report index !-->
 
@@ -76,7 +76,7 @@
 - Detected by:
 - Detected at: 
 - Possible solution:
-- Related issues: #BudID
+- Related issues: #BugID
 - Other: 
 
 
